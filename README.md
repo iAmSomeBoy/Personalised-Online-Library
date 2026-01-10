@@ -5,7 +5,7 @@
 - This repository is a **collection of high-quality and useful links** on many popular topics.
 - Instead of searching the internet repeatedly and browsing random content, I created this repo to work like an **online library**.
 - Anyone can benefit by reading topics from these carefully selected sources.
-- Finally, I want to say that this is a ***Personalised Library***—where you can always return to the **same trusted and already-tested resources**.
+- Finally, I want to say that this is a ***Personalised Library***—where you can always return to the **same trusted and already-tested high qualified resources**.
 
 ---
 
