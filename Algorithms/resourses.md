@@ -1,1 +1,2 @@
 - [understand sorting algorithms](https://medium.com/jl-codes/understanding-sorting-algorithms-af6222995c8)
+- [populer sorting algorithms](https://yuminlee2.medium.com/bubble-sort-algorithm-cc55b88bb311)
