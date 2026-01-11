@@ -11,6 +11,7 @@
 | Counting    | O(n + k), Stable, Range-based                  |
 | Radix       | O(nk), Stable, Digit-based                     |
 ---
+`In Place: Quickly Select the Heap`
 </br>
 </br>
 
