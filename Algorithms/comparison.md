@@ -6,10 +6,10 @@
 | Selection   | O(n²), Not stable                      |
 | Insertion   | O(n²), Stable                         |
 | Merge       | O(n log n), Stable, O(n) space        |
-| Quick       | O(n²), Fast average                    |
+| Quick       | O(n²), In Place, Fast average                    |
 | Heap        | O(n log n), In-place                   |
-| Counting    | O(n + k), Range-based                  |
-| Radix       | O(nk), Digit-based                     |
+| Counting    | O(n + k), Stable, Range-based                  |
+| Radix       | O(nk), Stable, Digit-based                     |
 ---
 </br>
 </br>
